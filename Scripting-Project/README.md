@@ -1,7 +1,7 @@
 # Directory Copy and Rename Script
 
 ## Overview
-This Python script identifies directories containing a specific pattern "game" in their names, copies them from a source directory to a target directory, and renames them by removing the `_game` suffix.
+This Python script identifies directories containing a specific pattern `"game"` in their names, copies them from a source directory to a target directory, and renames them by removing the `_game` suffix.
 
 ## Features
 - Searches for directories with the pattern `"game"`.
@@ -11,3 +11,5 @@ This Python script identifies directories containing a specific pattern "game" i
 ## Usage
 1. Run the script using the command:
    python script.py <data> <target_directory>
+
+This version is clean, structured, and ready for direct use in your repository.

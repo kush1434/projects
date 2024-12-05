@@ -17,7 +17,7 @@ file_to_path = {
     ".mp4": "Media"
 }
 
-restricted_files = ["organize_script.py", "file_creator.py"]
+restricted_files = ["organize_script.py", "file_creator.py", "README.md"]
 
 def make_directory(path, name):
     final_directory = os.path.join(path, name)
